@@ -1,13 +1,5 @@
 {
-  "logs": [
-    {
-      "id": 1,
-      "message": "fr",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-04-01T23:26:08.082Z"
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
@@ -20,9 +12,9 @@
       "lastName": "Smith"
     },
     {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Ian",
+      "lastName": "Boldea",
+      "id": 4
     }
   ]
 }
